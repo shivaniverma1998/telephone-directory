@@ -1,5 +1,58 @@
 # Getting Started with Create React App
 
+
+
+
+Telephone Directory
+Welcome to the Telephone Directory project! This is a simple web application designed to function as a basic phone book. It allows users to enter and manage contact information including first names, last names, and phone numbers. The application provides a straightforward and user-friendly interface for managing contacts, and it automatically sorts them by last name.
+
+Features
+Form for Adding Contacts: Easily input first name, last name, and phone number into a form.
+Dynamic List: The contact list updates automatically with each new entry.
+Automatic Sorting: Contacts are sorted alphabetically by last name.
+Pre-populated Form: The form is pre-filled with default values upon loading.
+Attractive Design: Modern and responsive UI with gradient colors and a background image for the form.
+Getting Started
+To get started with this project, clone the repository and install the required dependencies.
+
+Prerequisites
+Node.js (v14 or later)
+npm (comes with Node.js)
+Installation
+Clone the Repository
+
+bash
+Copy code
+git clone https://github.com/shivaniverma1998/telephone-directory.git
+Navigate to the Project Directory
+
+bash
+Copy code
+cd telephone-directory
+Install Dependencies
+
+bash
+Copy code
+npm install
+Start the Development Server
+
+bash
+Copy code
+npm start
+The application will be available at http://localhost:3000.
+
+Usage
+Once the application is running, you can add new contacts using the form at the top of the page. The contact list below will update automatically and display all contacts sorted by last name.
+
+Contributing
+Feel free to contribute to the project by opening issues or submitting pull requests. Please follow the contribution guidelines outlined in the CONTRIBUTING.md file.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Inspired by basic phone book applications and UI design principles.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
